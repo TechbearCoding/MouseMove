@@ -1,0 +1,9 @@
+
+*.stash
+*.o
+debug/moc_mainwindow.cpp
+*.exe
+debug/moc_predefs.h
+*.user
+*.Debug
+Makefile
